@@ -1,0 +1,30 @@
+a{
+    font-size: 25px;
+    color: blueviolet;
+}
+
+.sınıf1{
+    font-size: 30px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: blueviolet;
+}
+.sınıf3{
+    font-family: 'Times New Roman', Times, serif;
+    color: blueviolet;
+    
+}
+
+#id1{
+    font-size: 18px;
+    font-family:'Times New Roman', Times, serif;
+    
+}
+#id2{
+    font-size: 30px;
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+}
+#id3{
+    font-size: 25px;
+    color: rgb(114, 39, 39);
+}
